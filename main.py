@@ -9,8 +9,8 @@ from apscheduler.schedulers.asyncio import AsyncIOScheduler
 import json
 import os
 from pyrogram.enums import ParseMode
-API_ID = None #int
-API_HASH = ""
+API_ID = "25752620" #int
+API_HASH = "6c80267d3f0c80acb62d8d6d70d8d5bb"
 BOT_TOKEN = ""
 
 me_id = None #your chat id (int)
